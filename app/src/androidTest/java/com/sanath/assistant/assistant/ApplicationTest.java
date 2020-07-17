@@ -1,4 +1,4 @@
-package com.iusolve.assistant.assistant;
+package com.sanath.assistant.assistant;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

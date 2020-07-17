@@ -1,4 +1,4 @@
-package com.iusolve.assistant.assistant;
+package com.sanath.assistant.assistant;
 
 import java.util.List;
 
